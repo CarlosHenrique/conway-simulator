@@ -28,11 +28,11 @@ Simular a evolução de padrões celulares em um autômato bidimensional, com co
 
 ### Grid com Padrão Glider em Execução
 
-![Simulação](https://raw.githubusercontent.com/CarlosHenrique/conway-simulator/main/screenshots/simulacao_exemplo.png)
+![Simulação](https://github.com/CarlosHenrique/conway-simulator/blob/main/simulacao_exemplo.png?raw=true)
 
 ### Gráfico Gerado ao Final da Simulação
 
-![Gráfico](https://raw.githubusercontent.com/CarlosHenrique/conway-simulator/main/screenshots/grafico_exemplo.png)
+![Gráfico](https://github.com/CarlosHenrique/conway-simulator/blob/main/grafico_exemplo.png?raw=true)
 
 ---
 
